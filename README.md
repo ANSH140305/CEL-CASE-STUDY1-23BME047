@@ -200,7 +200,7 @@ For the input values:
 This project demonstrates how a **5 DOF spring-mass system** can be modeled using matrix algebra.  
 By solving the eigenvalue problem:
 
-$$
+
 
 
 
